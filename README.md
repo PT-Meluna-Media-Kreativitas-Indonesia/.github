@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<p align="left">We are PT Meluna Media Kreativitas Indonesia (a.k.a Meluna) 🏢<br><br>🎶 We are a Music Company, but Not Just a Music Company.<br>💡 We develop Technology for the Music Industry!<br>🇮🇩 We are an Indonesian Company.<br>🌍 We are here to Bring Creativity to the World! ✨</p>
+<p align="left">We are PT Meluna Media Kreativitas Indonesia 🏢<br><br>🎶 We are a Music Company, but Not Just a Music Company.<br>💡 We develop Technology for the Music Industry!<br>🇮🇩 We are an Indonesian Company.<br>🌍 We are here to Bring Creativity to the World! ✨</p>
 
 ###
 
