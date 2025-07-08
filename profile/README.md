@@ -1,8 +1,19 @@
-<img align="left" height="135" src="https://avatars.githubusercontent.com/u/219882036?s=1080"  />
+<img align="left" height="155" src="https://avatars.githubusercontent.com/u/219882036?s=1080"/>
 
 ###
 
-<h1 align="left" border="0">Hi There 👋</h1>
+<!--<h1 align="left">Hi There 👋</h1>-->
+
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        Hi There
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ###
 
@@ -26,23 +37,17 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🏢 Who Are We?</h3>
 
 ###
 
-<br clear="both">
-
-<p align="left">We are PT Meluna Media Kreativitas Indonesia 🏢<br><br>🎶 We are a Music Company, but Not Just a Music Company.<br>💡 We develop Technology for the Music Industry!<br>🇮🇩 We are an Indonesian Company.<br>🌍 We are here to Bring Creativity to the World! ✨</p>
+<p align="left">We are PT Meluna Media Kreativitas Indonesia 🏢<br><br>🎶 We are a Music Company, but Not Just a Music Company.<br>💡 We develop Technology for the Music Industry!<br>🇮🇩 We are an Indonesian Company.<br>🌍 We are here to <b>Bring Creativity to the World</b> ✨</p>
 
 ###
 
 <h3 align="left">🛠 Our Technology Developed with 👨🏻‍💻</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
